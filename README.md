@@ -1,7 +1,3 @@
-Here’s a draft **README** file for your GitHub project, which includes code (`RAG_STAT.ipynb`) and the dissertation on enhancing statistical reasoning in Large Language Models (LLMs) with LLaMA 2, based on the provided context:
-
----
-
 # RAG-Stat: Enhancing Statistical Reasoning in Large Language Models
 
 ## Project Overview
