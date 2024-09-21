@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the implementation and dissertation for **RAG-Stat**, a project aimed at improving statistical reasoning in large language models (LLMs) using **Retrieval-Augmented Generation (RAG)** techniques. The model leverages **LLaMA 2** as the base language model, enhanced by a dynamic retrieval mechanism to improve its ability to handle statistical problems.
+This repository contains the implementation of **RAG-Stat**, a project aimed at improving statistical reasoning in large language models (LLMs) using **Retrieval-Augmented Generation (RAG)** techniques. The model leverages **LLaMA 2** as the base language model, enhanced by a dynamic retrieval mechanism to improve its ability to handle statistical problems.
 
 ## Research Problem
 
