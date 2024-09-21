@@ -75,11 +75,3 @@ The model was evaluated on a dataset of statistical questions and compared again
 The project lays the groundwork for applying retrieval-augmented models in specialized fields. Future research may explore:
 - Extending RAG to other domains (e.g., finance, physics).
 - Enhancing model interpretability in statistical problem-solving.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust any specific details, such as the installation process or results based on your findings!
