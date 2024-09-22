@@ -55,14 +55,16 @@ pip install -r requirements.txt
 The notebook demonstrates various examples of statistical queries handled by the model. For instance:
 
 ```python
-# Load model and data
-from transformers import LLaMA2ForSeq2Seq
+# Load the index and create a query engine
+query_engine = index.as_query_engine()
 
-# Input a statistical question
-question = "What is the expectation of a normally distributed variable?"
+# Input a statistical or mathematical question
+question = "How many diagonals can you draw in a decagon?"
 
-# Generate a response
-response = model.generate(question)
+# Query the model and retrieve a response
+response = query_engine.query(question)
+
+# Print the response
 print(response)
 ```
 
