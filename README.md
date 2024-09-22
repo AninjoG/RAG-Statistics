@@ -76,8 +76,8 @@ The model was evaluated on a dataset of statistical questions and compared again
 
 This project sets the foundation for using Retrieval-Augmented Generation (RAG) models in specialized fields. Key areas for future research include:
 
--Integration with More Advanced Models: Incorporating cutting-edge models like GPT-4 or future iterations of LLaMA can significantly enhance statistical reasoning and complex mathematical operations.
+- **Integration with More Advanced Models:** Incorporating cutting-edge models like GPT-4 or future iterations of LLaMA can significantly enhance statistical reasoning and complex mathematical operations.
 
--Refining RAG Approaches: Developing more sophisticated, context-aware retrieval systems and adaptive techniques will improve the accuracy and efficiency of statistical problem-solving.
+- **Refining RAG Approaches:** Developing more sophisticated, context-aware retrieval systems and adaptive techniques will improve the accuracy and efficiency of statistical problem-solving.
 
--Real-World Applications: Applying RAG-Stat in fields such as finance, healthcare, and scientific research will help tackle complex real-world challenges in data analysis and decision-making.
+- **Real-World Applications:** Applying RAG-Stat in fields such as finance, healthcare, and scientific research will help tackle complex real-world challenges in data analysis and decision-making.
