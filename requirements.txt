@@ -1,0 +1,10 @@
+torch>=1.9.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+datasets
+scikit-learn
+faiss-cpu>=1.7.2
+numpy
+pandas
+tqdm
+jupyterlab
